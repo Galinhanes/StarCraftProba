@@ -2,26 +2,26 @@ const razas = {
     "Protoss": {
       "nome": "Protoss",
       "descricion": "Durante milleiros de anos, os antigos e misteriosos protoss dominaron a súa parte da galaxia. Os guerreiros protoss non teñen igual en destreza e valor, grazas á combinación da tecnoloxía coa súa formidable forza psiónica.",
-      "imaxeFondo": "../assets/razas/protoss_background_1600_desktop.avif",
-      "imaxeFondoMobile": "../assets/razas/races_protoss_960_mobile.avif",
-      "iconoBotonDefault": "../assets/icons/protoss_icon_default.avif",
-      "iconoBotonActive": "../assets/icons/protoss_icon_active.avif"
+      "imaxeFondo": "./assets/razas/protoss_background_1600_desktop.avif",
+      "imaxeFondoMobile": "./assets/razas/races_protoss_960_mobile.avif",
+      "iconoBotonDefault": "./assets/icons/protoss_icon_default.avif",
+      "iconoBotonActive": "./assets/icons/protoss_icon_active.avif"
     },
     "Terran": {
       "nome": "Terran",
       "descricion": "Prácticamente acabados de chegar ao sector Koprulu, os terran son os descendentes dunha desastrosa expedición de colonización que partiu da Terra hai séculos. Sen a avanzada tecnoloxía dos protoss nin o talento natural dos zerg, as forzas militares terran apóianse nunha variada combinación de unidades versátiles e resistentes para superar aos seus rivais.",
-      "imaxeFondo": "../assets/razas/terran_background_1600_desktop.avif",
-      "imaxeFondoMobile": "../assets/razas/races_terran_960_mobile.avif",
-      "iconoBotonDefault": "../assets/icons/terran_icon_default.avif",
-      "iconoBotonActive": "../assets/icons/terran_icon_active.avif"
+      "imaxeFondo": "./assets/razas/terran_background_1600_desktop.avif",
+      "imaxeFondoMobile": "./assets/razas/races_terran_960_mobile.avif",
+      "iconoBotonDefault": "./assets/icons/terran_icon_default.avif",
+      "iconoBotonActive": "./assets/icons/terran_icon_active.avif"
     },
     "Zerg": {
       "nome": "Zerg",
       "descricion": "Liderados pola astuta Raíña de Espadas, os alieníxenas zerg teñen a intención de desatar os seus horrores pola galaxia e consumir a todo aquel que se interponga no seu camiño. Os zerg non empregan tecnoloxía para crear as súas armas, armaduras e naves estelares. No seu lugar, esas funcións cúmprenas de forma eficiente mediante adaptación biolóxica e mutación planificada.",
-      "imaxeFondo": "../assets/razas/zerg_background_1600_desktop.avif",
-      "imaxeFondoMobile": "../assets/razas/races_zerg_960_mobile.avif",
-      "iconoBotonDefault": "../assets/icons/zerg_icon_default.avif",
-      "iconoBotonActive": "../assets/icons/zerg_icon_active.avif"
+      "imaxeFondo": "./assets/razas/zerg_background_1600_desktop.avif",
+      "imaxeFondoMobile": "./assets/razas/races_zerg_960_mobile.avif",
+      "iconoBotonDefault": "./assets/icons/zerg_icon_default.avif",
+      "iconoBotonActive": "./assets/icons/zerg_icon_active.avif"
     }
   }
 
